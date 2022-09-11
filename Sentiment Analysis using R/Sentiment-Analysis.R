@@ -1,5 +1,4 @@
 library(tidytext) #contains sentiment lexicons
-Sentiments
 
 get_sentiments("bing") #to extract sentiments out of data
 
